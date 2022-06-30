@@ -1,0 +1,11 @@
+{
+  "apiKey": "AIzaSyACVgTzlRVr-USk180moZ8znZejKDEtlfc",
+  "authDomain": "myproject-a53c2.firebaseapp.com",
+  "databaseURL": "https://myproject-a53c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "projectId": "myproject-a53c2",
+  "storageBucket": "myproject-a53c2.appspot.com",
+  "messagingSenderId": "115468154512",
+  "appId": "1:115468154512:web:0182ff57cc0c5e8dd10a15",
+  "serviceAccount": "./libdata/serviceAccount2.json",
+  "measurementId": "G-ZRKC3SCR74"
+}

@@ -1,0 +1,6 @@
+*.pyc
+.__pycache__/
+mycontents.html
+test.py
+main
+void

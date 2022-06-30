@@ -1,0 +1,11 @@
+{
+  "serviceAccount": "./libdata/serviceAccount3.json",
+  "databaseURL": "https://blogfacebook-5abac-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "apiKey": "AIzaSyDX36xRrxDtHV0UxhVmZpidUkxvkwj-_gQ",
+  "authDomain": "blogfacebook-5abac.firebaseapp.com",
+  "projectId": "blogfacebook-5abac",
+  "storageBucket": "blogfacebook-5abac.appspot.com",
+  "messagingSenderId": "429581388477",
+  "appId": "1:429581388477:web:221aee1e8711d2230f05d4",
+  "measurementId": "G-NQFTQ350XL"
+}
